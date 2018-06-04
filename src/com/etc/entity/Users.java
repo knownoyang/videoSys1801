@@ -3,6 +3,8 @@ package com.etc.entity;
 public class Users {
 	private int userId;
 	private String userName;
+	
+	private String msg;
 
 	/**
 	 * @return the userId
