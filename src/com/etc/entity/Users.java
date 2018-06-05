@@ -11,6 +11,10 @@ public class Users {
 	private String userPwd;
 	
 	private String append;
+	
+	public String toString() {
+		
+	}
 
 
 	/**
@@ -42,5 +46,7 @@ public class Users {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
+	
+	
 
 }
