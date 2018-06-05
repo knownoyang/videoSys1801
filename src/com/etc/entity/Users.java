@@ -9,6 +9,8 @@ public class Users {
 	private String msg;
 
 	private String userPwd;
+	
+	private String append;
 
 
 	/**
