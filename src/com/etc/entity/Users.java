@@ -4,6 +4,7 @@ public class Users {
 	private int userId;
 	private String userName;
 
+	private int age;
 	
 	private String msg;
 
